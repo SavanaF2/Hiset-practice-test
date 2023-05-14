@@ -1,0 +1,93 @@
+{
+    "question": [
+      "Question 1: Behavior is the way in which organisms interact with other organisms and their environment. In both people and animals, behavior occurs in response to an external stimulus, an internal stimulus, or both. Some behaviors are innate, or built in. These innate behaviors include reflexes and instincts. Other behaviors are learned as a result of experiences. Which is an example of a reflex?",
+      "Question 2: Friction is a force acting along the durfaces of objects that opposes motion. There are several types of friction. Static friction opposes the movement of a stationary object along a surface. Sliding friction is created when two surfaces slide over one another and is affected by the weight of the moving objects, the types and texture of the surfaces, and any temporary bonding between the two. Rolling friction is created when an object rolls over a surface and apposes less motion than sliding friction. Fluid friction is created when an object is moving through a fluid, ushc as a gas or liquid. \n\n A deer runs out into the road, causing the drivier to slam on his brakes. Which type of friction is demonstrated when the car skids to a stop?",
+      "Question 3: What is lithiums atomic weight?",
+      "Question 4: A dog is lying on a scale. The weight of the dog is 13 pounds (58 newtons). What is the force that the scale is exerting upward on the dog?",
+      "Question 5: Which of the following statements provides evidence that visible light is made of electromagnetic waves rather than mechanical waves?",
+      "Question 6: When a person touched a mug of tea, the person's hand felt warm. Which of the following statements gives the best explanation of this observation?",
+      "Question 7: Through which of the following materials does electricty travel most easily?",
+      "Question 8: In which of the following substances do the molecules have the highest average kinetic energy?",
+      "Question 9: An organism's genes are made up of pairs of alleles that determine, among other characteristics, its physical appearance. An allele can be dominant or recessive. In pea plants, the allele (T) for a tall plant is dominant over the allele (t) for a short plant. A particular plant is tall. What conclusion can be made about its alleles for height.",
+      "Question 10: A person is pushing a brick up a slanted wooden board. Which of the following statements gives the best comparison of the force required to cause the brick to begin moving and the force required to keep the brick moving."
+    ],
+    "answer": [
+      1,
+      4, 
+      3, 
+      4, 
+      2,
+      2,
+      4,
+      1,
+      1,
+      1
+    ],
+    "options": [
+  
+      ["A person blinking when something is thrown toward him or her.",
+      "A baby crawling on the floor before it begins to walk.",
+      "A bird gathering material to build its nest.",
+      "A dog barking when it hears a doorbell."
+      ],
+      ["Fluid friction",
+      "Static friciton",
+      "Rolling friction",
+      "Sliding friction"
+      ],
+      ["3",
+      "Li",
+      "6.941",
+      "7"
+      ],
+      ["0 newtons",
+        "13 newtons",
+        "29 newtons",
+        "58 newtons"
+      ],
+      ["Sunlight can travel through window glass.",
+        "Sunlight can travel through a vacuum.",
+        "Sunlight can travel through clear plastic",
+        "Sunlight can travel through Earth's atmosphere."
+      ],
+      ["Thermal energy flowed from the person's hand to the mug.",
+        "Thermal energy flowed from the mug to the person's hand.",
+        "Thermal energy flowed  in a continuous loop between the person's hand and the mug",
+        "The person's hand was originally at the same temperture as the mug."
+      ],
+      ["glass.",
+        "Metal",
+        "Rubber",
+        "Plastic"
+      ],
+      ["Water boiling in a teakettle",
+        "water vapor in the air within the house.",
+        "snowflakes falling to the ground.",
+        "Ice cubes in the freezer"
+      ],
+      ["The allele pair could be Tt or TT.",
+       "The allele pair must be TT.",
+       "The allele pair could be Tt or tt.",
+       "The allele pair must be tt."
+      ],
+      
+      ["More force is required to cause the brick to begin moving because the roughness of the surface of the brick and the board increase the friction that must be overcome for movement to begin.",
+      "More force is required to cause the brick to begin moving than to keep it moving because of the higher amount of potenetial energy in the board due to its greater mass.",
+      "The same amount of force is required to cause the brick to move and to keep it in motion because the potential eneergy of the brick does not change.",
+      "Less force is required to cause the brick to begin moving because there is less friction with the board than when the brick is already in motion."
+      ]
+    ],
+    "explination":
+    [
+        "A person blinking when something is thrown at hem is the only example of a reflex.",
+        "The car is skidding or sliding across the road. Thus it's demonstrating sliding friction.",
+        "The atomic weight is 6.941.",
+        "The surface supporting an object exerts and upward force on the object tgat is equal but opposite to the downward force of gravity on the object",
+        "Electromagnetic waves, such as visible light, can propagate through matter or through space that is devoid of matter.",
+        "Thermal energy always flows from a warmer object to a cooler object.",
+        "Electricity travels easily through a conductor; options 1, 2, and 3 are insulators.",
+        "The average kinetic energy of the molecules of a substance increases as temperature increases. The water boiling in a tea kettle has the highest temperature.",
+        "Becuase the allele that codes for tallness is dominant, a tall plant could be heterozygous (Tt) or homozygous (TT). A tt plant would be short.",
+        "The stattic friction between stationary object with irregular surfaces is higher than the kinetic friction between those same objects moving relative to one another because of the resistance to movement cause by the interlocking surfaces."
+    ]
+  }

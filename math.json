@@ -1,0 +1,97 @@
+{
+    "question": [
+      "Question 1: \nBrent conducted a survey in his school regarding whether students ride their bikes to school each day. He surveyed a random sample of 150 students, and 40 said they rode their bikes to school each day. There are 450 students who attend the school. Based on the results of Brent's survey, about how many students in the school ride their bikes to school each day?",
+      "Question 2: The masses, in grams, of 11 apples are listed as: 70, 72, 75, 77. 82, 83, 83, 90, 92, 94, 95. An additional apple with a mass of 143 grams was added to the list. Which two statistical measures had the greatest combined increase when the mass of the twelfth apple was added.",
+      "Question 3: Larry has only these fish in his aquarium: 4 guppies, 2 angelfish, 3 swordtails, 7 tetras, 2 goldfish. He plans to randomly select two fish in his aquarium to give to his friend. What is the probability he will select a tetra and then a goldfish.",
+      "Question 4: Justin made a basket that contained gift bags for visitors to the health fair. He spend 5 minutes making the basket and 1.5 minutes assembling each gift bag. Which equation can be used to determine if t, the total number of munites Justin spend making the basket and the n gift bags it contained?",
+      "Question 5: Which of the following represents the solution to the inequality 2x + 11 > 7?",
+      "Question 6: Four people went to a restaurant and each paid separately. Their individual bills were $15, $17, $14, and $19. What was the average bill, in dollars?",
+      "Question 7: Joan is buying ground beef for his club's picnic. The club will make 76 hamburgers; each hamburger will contain 5 ounces of meat. Which of the following expressions can Joan use to find out how many pounds of beef he must buy?",
+      "Question 8: An office assistant can type 65 words per minute. If he spends 3 hours a day tyoing, how many words will he type in 5 days?",
+      "Question 9: What percent of 650 is 78?",
+      "Question 10: Which of the following is the sum of 3x, x, 2y, and -5y?"
+    ],
+    "answer": [
+      2,
+      1,
+      2,
+      4, 
+      2, 
+      3,
+      4,
+      1,
+      3,
+      1
+    ],
+    "options": [
+  
+      ["112",
+      "120",
+      "133",
+      "190"
+      ],
+      ["The mean and the range.",
+      "The median and the range.",
+      "The mean and the interquartile range.",
+      "The median and the interquartile range."
+      ],
+      ["7/162",
+      "7/153",
+      "1/9",
+      "1/2"
+      ],
+      ["t = 1.5n",
+       "t = 5n",
+       "t = 6.5n",
+       "t = 5n + 1.5"
+      ],
+      ["x > -4",
+       "x > -2",
+       "x > 2",
+       "X > 4"
+      ], 
+      ["$14.50",
+      "$15.65",
+      "$16.25",
+      "$17.00"
+     ],
+     [
+      "5 X 76",
+      "5 + 76",
+      "5 X 76 X 16",
+      "(5 X 76) / 16"
+     ],
+     [
+      "58,500",
+      "54,000",
+      "31,200",
+      "1,875"
+     ],
+     [
+      "4%",
+      "8.33%",
+      "12%",
+      "31%"
+     ],
+     [
+      "4x - 3y",
+      "x",
+      "3x - 10y",
+      "-30xy"
+     ]
+     
+    ],
+    "explination":
+    [
+        "First divide 150 by 40 which equals 0.266. Then multiply 0.266 by 450 which equals 119.7. 119.7 rounded is 120.",
+        "An outlier effects the mean and the range the most.",
+        "The probability of first selecting a tetra is 7/18. This is becuase there are 7 tetras out of 18 fish. The probabilty of next selecting a goldfish is 2/17. Finally take the probabilty of selecting a tetra (7/18) and multiply it by the probabilty of selecting a goldfish(2/17). Result is 7/153.",
+        "t = 1.5n + 5 correctly calculates the total minutes.",
+        "Subtract 11 from both sides of the inequality to get 2x > -4. Divide both sides of the inequality by 2 to get x > -2", 
+        "In general, to find the average, you find the sum of all the values and then divide by the number of values. In this case, there are four values so the average is (15 + 17 + 14 + 19)/4 = 16.25",
+        "The expression (5 X 76) / 16 will show how many ounces of meat he needs. To find the total amount of burgers in ounces multiply 76 and five. There are 16 ounces in a pound so to find the number of pounds you have to divide this by 16.", 
+        "In a single day, the office assistant types for 3 X 60 = 180 minutes, abd since he types 65 words a minute, he will type 65 X 180 = 11,700 words a day. Finally, he will type 5 X 11,700 = 58,500 words in 5 days.",
+        "(78/650 X 100)% = 12%", 
+        "3x + x + 2y + (-5y) = (3 + 1)x + (2 - 5)y = 4x - 3y"
+    ]
+  }

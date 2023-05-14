@@ -1,0 +1,97 @@
+{
+    "question": [
+      "Question 1: Which of the following directly influences the climate of a region?",
+      "Question 2: What was the result of the Allied victory in Europe in World War II?",
+      "Question 3: Which of the following describes a primary economic activity?",
+      "Question 4: Which role do ploitical parties play in the election process?",
+      "Question 5: In 1954, the Supreme Court ruled on Brown v. Board of Education, which challenged a ruling established by the 1896 case Plessy v. Ferguson. The 1954 case was brought against the school system of Topeka, Kansas, by the NAACP. Which best summarizes the outcome of this case?",
+      "Question 6: Why was World War I known as 'The Great War'?",
+      "Question 7: In economics, the sacrifice in production of one good to increase production of another good is reffered to as: ",
+      "Question 8: The Monroe Doctrine, a U.S foreign policy developed in 1823, stated that 'The American continents, by the free and independent condition whcih they have assumed and maintain, are henceforth not to be considered as subjects for future colonization by any European powers.' The people in the far right corner of the cartoon represent: ",
+      "Question 9: The Sixteenth Amendment, ratified in 1913, was one of four amendments including those dealing with women's suffrage and Prohibition, that are associated with wich political movement in America?",
+      "Question 10: With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan - to do all which may achieve and cherish and just a lasting peace among ourselves, and with all nations. \n Which of the following statements most accurately summarizes Lincoln's views toward the South as stated in the passage?"
+
+    ],
+    "answer": [
+      2,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      3,
+      4,
+      2
+    ],
+    "options": [
+  
+      ["Tectonic plates",
+      "Latitide",
+      "Ocean tides",
+      "Longitude"
+      ],
+      ["The United States introduced capitilism and free enterprise to europe.",
+      "The British Empire expanded by acquring new territory in Europe.",
+      "The Soviet Union was prevented from spreading communism in Europe.",
+      "Europe was liberated and Nazi rule was ended in Germany."
+      ],
+      ["Converting raw materials into products such as cloth and steel.",
+      "Designing new products based on research and application of scientific principles.",
+      "Obtaining raw materials from the land through farming and mining.",
+      "Supplying services such as transporting goods and providing medical care."
+      ],
+      ["Protecting citizens from voter discrimination",
+        "Petitioning the government for campaign funding",
+        "Donating money to special interest groups.",
+        "Nominating candidates to run for office."
+      ],
+      ["Seperate schools are inherently unequal.",
+      "Schools segregated by race are separate but equal.",
+      "The first Amendment does support obscene speech in schools.",
+      "School-initiated prayer in public schools is protected by the First Amendment."
+      ],
+      [
+        "Because the war lasted for so many years.",
+        "Because so many countries were involved.",
+        "Because every country in the world played part.",
+        "Because the war was fought by the sea as well as by land."
+      ],
+      [
+        "Means of production.",
+        "Human capital.",
+        "Opportunity cost.",
+        "Purchasing power parity."
+      ],
+      [
+        "Asian countries",
+        "U.S.congressmen",
+        "European countries",
+        "U.S. state governors"
+      ],
+      [
+        "Reconstruction",
+        "The Great Society",
+        "Civil rights",
+        "Progressivism"
+      ],
+      [ "The Union should surrender to the South so the war can come to a quick end.",
+        "Although the Union has won the war, the government intends to treat the South with respect and to bring the nation back together.",
+        "The Union, with God's help, has defeated the South, and the South should be harshly punished.",
+        "The South should pay heavy war reparations to care for orphans and widows of the Union army."
+      ]
+      ],
+    "explination":
+    [
+        "The climate of the region is directly influenced by latitude, or distance of a region from the poles and equator. \n",
+        "Allied victory in World War II liberated Europe from occupation by Axis powers and ended Nazi rule in Germany.",
+        "Primary activities, such as farming and mining, obtain goods directly from the earth.",
+        "Political parties nominate candidtaes to run for office.",
+        "In 1954, the NAACP challenged the constitutionality of schools being segregated. Today, as a result the Supreme Court ruling, stufents are no longer seperated by race. Anser choice A best summarizes the outcome.",
+        "World War I was known as The Great War because there were so many different countries involved.",
+        "In economics, the opportunity cost is the sacrifice in production of one good for the increased production of another.",
+        "The Monroe Doctrine states that if Eurpean nations tried to colonize land or interfere with countries in North or South America, it would be seen as an act of aggression, and the United states would have to intervene.",
+        "The Sixteenth, Seventeenth (direct election of U.S Senators), Eighteenth (Prohibition), and Ninteenth (women's suffrage) Amendments are known collectively as the Progressive Amendments due to their close ties to that political movement.",
+        "Lincoln famously and eloquently outlines his views on the coming period of Reconstruction, namely thath the South should be welcomed back to the Union without the retribution and punishment demanded by many in the North."
+    ]
+  }
