@@ -1,2 +1,2 @@
 # Hiset_test_practice
-This is a practice test for the HiSet test. I made it using a mix of python, tkinter, and json.
+I made this Hiset practice test for my software development class. It was made using a mix of Python, Tkinter, and JSON.
